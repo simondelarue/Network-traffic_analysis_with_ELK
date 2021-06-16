@@ -1,4 +1,6 @@
-<center><img src='img/network_analysis_img.png'></center>
+<p align='center'>
+    <img src='img/network_analysis_img.png' />
+</p>
 
 # Network traffic analysis using Elasticsearch-Logstash-Kibana stack
 
